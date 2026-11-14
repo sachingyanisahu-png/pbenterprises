@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pbenterprises.in/sitemap.xml
